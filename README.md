@@ -1,2 +1,2 @@
-# ue5_tutorial_2
+# Unreal Engine Tutorial #2
 Another UE5 tutorial, but this one is not that much complicated
